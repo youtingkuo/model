@@ -128,16 +128,6 @@
                     "receiveShadow": true,
                     "geometry": "0B16B46E-E777-3752-B038-3CDDD9612068"
                 },{
-                    "name": "Light01",
-                    "uuid": "7C6B8C66-59B2-3966-A7E4-17061591079E",
-                    "matrix": [1,0,0,0,0,-0,1,0,0,-1,-0,0,4053.37,1327.97,6396.96,1],
-                    "visible": true,
-                    "type": "PointLight",
-                    "color": 13948116,
-                    "intensity": 1,
-                    "distance": 0,
-                    "decayExponent": 2
-                },{
                     "name": "TAKSTAM",
                     "uuid": "53CFE98D-2254-3F98-B522-17D9059FEDE4",
                     "matrix": [1,0,0,0,0,1,-0,0,0,0,1,0,0,0,2453.43,1],
